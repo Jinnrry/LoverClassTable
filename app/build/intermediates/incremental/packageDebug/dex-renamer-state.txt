@@ -1,0 +1,7 @@
+#Tue Feb 28 22:42:24 CST 2017
+base.0=/home/jiangwei/桌面/TimeTableView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4be7ebe07a836447bf20e709077907520bbeef57
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/jiangwei/桌面/TimeTableView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cd6d4edda5d569eda9eb42b9a582634a5cc31dd2/classes.dex
+base.1=/home/jiangwei/桌面/TimeTableView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cd6d4edda5d569eda9eb42b9a582634a5cc31dd2
+file.0=/home/jiangwei/桌面/TimeTableView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4be7ebe07a836447bf20e709077907520bbeef57/classes.dex

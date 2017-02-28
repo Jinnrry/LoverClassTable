@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">蒋为专用课表</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="spingarr">
+        <item>1周</item>
+        <item>2周</item>
+        <item>3周</item>
+        <item>4周</item>
+        <item>5周</item>
+        <item>6周</item>
+        <item>7周</item>
+        <item>8周</item>
+        <item>9周</item>
+        <item>10周</item>
+        <item>11周</item>
+        <item>12周</item>
+        <item>13周</item>
+        <item>14周</item>
+        <item>15周</item>
+        <item>16周</item>
+        <item>17周</item>
+        <item>18周</item>
+        <item>19周</item>
+        <item>20周</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/jiangwei/桌面/TimeTableView-master/app/build/intermediates/res/merged/debug/drawable-hdpi/share_term_table_footer.png",
+        "source": "/home/jiangwei/桌面/TimeTableView-master/app/src/main/res/drawable-hdpi/share_term_table_footer.png"
+    },
+    {
+        "merged": "/home/jiangwei/桌面/TimeTableView-master/app/build/intermediates/res/merged/debug/drawable-hdpi/share_term_table_header.png",
+        "source": "/home/jiangwei/桌面/TimeTableView-master/app/src/main/res/drawable-hdpi/share_term_table_header.png"
+    },
+    {
+        "merged": "/home/jiangwei/桌面/TimeTableView-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/jiangwei/桌面/TimeTableView-master/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
