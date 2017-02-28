@@ -1,7 +1,7 @@
 ##**自定义课表LineLayout 绘制课表**
 
 
-[下载示例程序](情侣课表.apk)
+[下载示例程序](https://github.com/jiangwei1995910/LoverClassTable/raw/master/%E6%83%85%E4%BE%A3%E8%AF%BE%E8%A1%A8.apk)
 
 
 #界面展示
